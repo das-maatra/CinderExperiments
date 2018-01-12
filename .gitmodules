@@ -1,0 +1,3 @@
+[submodule "shared/cinder"]
+	path = shared/cinder
+	url = git@github.com:cinder/Cinder.git
